@@ -1,0 +1,32 @@
+Diabetes mellitus is a metabolic disorder characterized by persistent hyperglycemia due to insulin deficiency or resistance.
+Symptoms
+Frequent urination (polyuria) is a common early symptom of diabetes.
+Excessive thirst (polydipsia) occurs due to fluid loss from increased urination.
+Unexplained weight loss may occur despite normal or increased appetite.
+Persistent fatigue is often reported due to impaired glucose utilization.
+Blurred vision may occur when blood glucose levels fluctuate significantly.
+Slow wound healing is associated with poor glycemic control.
+Recurrent infections, including skin and urinary infections, may indicate diabetes.
+Diagnosis
+Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+HbA1c ≥6.5% confirms the diagnosis of diabetes.
+A random blood glucose level ≥200 mg/dL with symptoms indicates diabetes.
+An oral glucose tolerance test (OGTT) showing ≥200 mg/dL after 2 hours confirms diabetes.
+Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+Treatment
+Lifestyle modification is mandatory and includes dietary control and regular physical activity.
+Patients should reduce intake of refined sugars and high-glycemic foods.
+Weight management is recommended for overweight individuals.
+Metformin is the first-line pharmacological treatment unless contraindicated.
+Additional oral agents may be prescribed if glycemic targets are not achieved.
+Insulin therapy is required when oral medications are insufficient or contraindicated.
+Blood glucose monitoring should be performed regularly.
+HbA1c should be monitored every 3–6 months.
+Complications
+Chronic hyperglycemia may lead to diabetic neuropathy.
+Diabetic nephropathy may result in progressive kidney damage.
+Diabetic retinopathy can lead to vision impairment or blindness.
+Cardiovascular disease risk is significantly increased in diabetic patients.
+Acute complications include diabetic ketoacidosis (DKA).
+Severe hypoglycemia may occur due to overtreatment.
+

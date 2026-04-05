@@ -1,0 +1,57 @@
+Contrastive learning inputs
+
+(1) Query 12: What is the first-line medication for diabetes?
+
+Positive Chunk : 
+oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be added if glycemic control is
+
+Negative Chunk : 
+as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis,
+
+###########################################################################
+
+(2) Query 13:  When is insulin therapy required?
+
+Positive Chunk : 
+as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis,
+
+Negative Chunk : 
+oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be added if glycemic control is
+
+
+#############################################################################
+
+(3) Query 14: Why is weight management important in diabetes?
+
+Positive Chunk : 
+Chunk: oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be added if glycemic control is
+
+Negative Chunk : 
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine.
+
+
+#############################################################################
+
+(4) Query 28: Why might a patient require insulin even after starting oral medication?
+
+Positive Chunk : 
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis,
+
+Negative chunk 1 : 
+Chunk: oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be added if glycemic control is
+
+Negative chunk 2 : 
+Chunk: are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly in patients receiving intensive treatment.
+
+#############################################################################
+
+(5) Query 35: What risks arise if diabetes is treated aggressively without proper monitoring?
+
+Negative chunk 1 : 
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis,
+
+Negative chunk 2 :
+Chunk: are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly in patients receiving intensive treatment.
+
+
+#############################################################################

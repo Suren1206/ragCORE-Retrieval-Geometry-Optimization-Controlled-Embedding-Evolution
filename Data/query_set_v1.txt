@@ -1,0 +1,35 @@
+    1. What are the common symptoms of diabetes? 
+    2. What early signs may indicate diabetes? 
+    3. How does diabetes affect energy levels? 
+    4. Why do patients with diabetes experience frequent urination? 
+    5. What visual symptoms are associated with diabetes? 
+    6. How is diabetes diagnosed using fasting blood glucose? 
+    7. What HbA1c level confirms diabetes? 
+    8. When is a random blood glucose test sufficient for diagnosis? 
+    9. What is the role of the oral glucose tolerance test? 
+    10. How is prediabetes identified? 
+    11. What lifestyle changes are recommended for diabetes management? 
+    12. What is the first-line medication for diabetes? 
+    13. When is insulin therapy required? 
+    14. Why is weight management important in diabetes? 
+    15. How often should HbA1c be monitored? 
+    16. What are the long-term complications of diabetes? 
+    17. How does diabetes affect the kidneys? 
+    18. What eye-related complications can occur in diabetes? 
+    19. Why are diabetic patients at higher cardiovascular risk? 
+    20. What is diabetic ketoacidosis? 
+    21. How does uncontrolled diabetes impact multiple organ systems? 
+    22. What symptoms and diagnostic indicators together suggest diabetes? 
+    23. What happens if diabetes is left untreated over time? 
+    24. How do treatment strategies aim to control blood glucose? 
+    25. What are both acute and chronic complications of diabetes? 
+    26. What combination of symptoms and test results would strongly indicate diabetes? 
+    27. Under what conditions can diabetes be diagnosed without fasting tests? 
+    28. Why might a patient require insulin even after starting oral medication? 
+    29. How do lifestyle changes and medication work together in diabetes management? 
+    30. What factors contribute to both acute and long-term complications in diabetes? 
+    31. How can poor glucose control lead to multiple types of complications? 
+    32. What distinguishes prediabetes from diabetes in terms of diagnostic criteria? 
+    33. Why might symptoms appear before a formal diagnosis is confirmed? 
+    34. How do diagnostic thresholds relate to disease progression? 
+    35. What risks arise if diabetes is treated aggressively without proper monitoring? 
