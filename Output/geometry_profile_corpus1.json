@@ -1,0 +1,10 @@
+{
+    "vocabulary_entropy": 5.043018295536234,
+    "avg_chunk_length": 46.111111111111114,
+    "embedding_variance_mean": 0.00030673385481350124,
+    "inter_chunk_similarity_mean": 0.734981894493103,
+    "rank_gap": {
+        "avg_gap_high": 0.0,
+        "avg_gap_mid": -0.014758491888642311
+    }
+}

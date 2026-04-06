@@ -1,0 +1,497 @@
+
+==============================
+Query 1: 1. What are the common symptoms of diabetes?
+------------------------------
+Rank 1 | Score: 0.7720 | Band: HIGH
+Chunk: Frequent urination (polyuria) is a common early symptom of diabetes.
+
+Rank 2 | Score: 0.7524 | Band: HIGH
+Chunk: A random blood glucose level ≥200 mg/dL with symptoms indicates diabetes.
+
+Rank 3 | Score: 0.7483 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Score Gap (Top1 - Top2): 0.0196
+
+==============================
+Query 2: 2. What early signs may indicate diabetes?
+------------------------------
+Rank 1 | Score: 0.7498 | Band: MID
+Chunk: Frequent urination (polyuria) is a common early symptom of diabetes.
+
+Rank 2 | Score: 0.7458 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Rank 3 | Score: 0.7334 | Band: MID
+Chunk: A random blood glucose level ≥200 mg/dL with symptoms indicates diabetes.
+
+Score Gap (Top1 - Top2): 0.0040
+
+==============================
+Query 3: 3. How does diabetes affect energy levels?
+------------------------------
+Rank 1 | Score: 0.6920 | Band: MID
+Chunk: Diabetes mellitus is a metabolic disorder characterized by persistent hyperglycemia due to insulin deficiency or resistance.
+
+Rank 2 | Score: 0.6797 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.6741 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Score Gap (Top1 - Top2): 0.0123
+
+==============================
+Query 4: 4. Why do patients with diabetes experience frequent urination?
+------------------------------
+Rank 1 | Score: 0.8596 | Band: HIGH
+Chunk: Frequent urination (polyuria) is a common early symptom of diabetes.
+
+Rank 2 | Score: 0.7470 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Rank 3 | Score: 0.7381 | Band: MID
+Chunk: Excessive thirst (polydipsia) occurs due to fluid loss from increased urination.
+
+Score Gap (Top1 - Top2): 0.1126
+
+==============================
+Query 5: 5. What visual symptoms are associated with diabetes?
+------------------------------
+Rank 1 | Score: 0.7752 | Band: HIGH
+Chunk: Diabetic retinopathy can lead to vision impairment or blindness.
+
+Rank 2 | Score: 0.7612 | Band: HIGH
+Chunk: Blurred vision may occur when blood glucose levels fluctuate significantly.
+
+Rank 3 | Score: 0.7197 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Score Gap (Top1 - Top2): 0.0140
+
+==============================
+Query 6: 6. How is diabetes diagnosed using fasting blood glucose?
+------------------------------
+Rank 1 | Score: 0.8721 | Band: HIGH
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Rank 2 | Score: 0.7928 | Band: HIGH
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.7337 | Band: MID
+Chunk: HbA1c ≥6.5% confirms the diagnosis of diabetes.
+
+Score Gap (Top1 - Top2): 0.0793
+
+==============================
+Query 7: 7. What HbA1c level confirms diabetes?
+------------------------------
+Rank 1 | Score: 0.8670 | Band: HIGH
+Chunk: HbA1c ≥6.5% confirms the diagnosis of diabetes.
+
+Rank 2 | Score: 0.7670 | Band: HIGH
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.7471 | Band: MID
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Score Gap (Top1 - Top2): 0.0999
+
+==============================
+Query 8: 8. When is a random blood glucose test sufficient for diagnosis?
+------------------------------
+Rank 1 | Score: 0.7811 | Band: HIGH
+Chunk: A random blood glucose level ≥200 mg/dL with symptoms indicates diabetes.
+
+Rank 2 | Score: 0.7697 | Band: HIGH
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Rank 3 | Score: 0.7592 | Band: HIGH
+Chunk: Blood glucose monitoring should be performed regularly.
+
+Score Gap (Top1 - Top2): 0.0113
+
+==============================
+Query 9: 9. What is the role of the oral glucose tolerance test?
+------------------------------
+Rank 1 | Score: 0.7445 | Band: MID
+Chunk: An oral glucose tolerance test (OGTT) showing ≥200 mg/dL after 2 hours confirms diabetes.
+
+Rank 2 | Score: 0.6890 | Band: MID
+Chunk: Additional oral agents may be prescribed if glycemic targets are not achieved.
+
+Rank 3 | Score: 0.6835 | Band: MID
+Chunk: Blood glucose monitoring should be performed regularly.
+
+Score Gap (Top1 - Top2): 0.0554
+
+==============================
+Query 10: 10. How is prediabetes identified?
+------------------------------
+Rank 1 | Score: 0.8004 | Band: HIGH
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 2 | Score: 0.6662 | Band: MID
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Rank 3 | Score: 0.6402 | Band: MID
+Chunk: HbA1c ≥6.5% confirms the diagnosis of diabetes.
+
+Score Gap (Top1 - Top2): 0.1342
+
+==============================
+Query 11: 11. What lifestyle changes are recommended for diabetes management?
+------------------------------
+Rank 1 | Score: 0.7206 | Band: MID
+Chunk: Lifestyle modification is mandatory and includes dietary control and regular physical activity.
+
+Rank 2 | Score: 0.6656 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.6395 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Score Gap (Top1 - Top2): 0.0551
+
+==============================
+Query 12: 12. What is the first-line medication for diabetes?
+------------------------------
+Rank 1 | Score: 0.7004 | Band: MID
+Chunk: Metformin is the first-line pharmacological treatment unless contraindicated.
+
+Rank 2 | Score: 0.6887 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.6547 | Band: MID
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Score Gap (Top1 - Top2): 0.0116
+
+==============================
+Query 13: 13. When is insulin therapy required?
+------------------------------
+Rank 1 | Score: 0.8374 | Band: HIGH
+Chunk: Insulin therapy is required when oral medications are insufficient or contraindicated.
+
+Rank 2 | Score: 0.6295 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.6215 | Band: MID
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Score Gap (Top1 - Top2): 0.2080
+
+==============================
+Query 14: 14. Why is weight management important in diabetes?
+------------------------------
+Rank 1 | Score: 0.7308 | Band: MID
+Chunk: Weight management is recommended for overweight individuals.
+
+Rank 2 | Score: 0.7187 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.6824 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Score Gap (Top1 - Top2): 0.0121
+
+==============================
+Query 15: 15. How often should HbA1c be monitored?
+------------------------------
+Rank 1 | Score: 0.9001 | Band: HIGH
+Chunk: HbA1c should be monitored every 3–6 months.
+
+Rank 2 | Score: 0.7437 | Band: MID
+Chunk: Blood glucose monitoring should be performed regularly.
+
+Rank 3 | Score: 0.6457 | Band: MID
+Chunk: HbA1c ≥6.5% confirms the diagnosis of diabetes.
+
+Score Gap (Top1 - Top2): 0.1563
+
+==============================
+Query 16: 16. What are the long-term complications of diabetes?
+------------------------------
+Rank 1 | Score: 0.6995 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 2 | Score: 0.6940 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Rank 3 | Score: 0.6937 | Band: MID
+Chunk: Diabetic nephropathy may result in progressive kidney damage.
+
+Score Gap (Top1 - Top2): 0.0055
+
+==============================
+Query 17: 17. How does diabetes affect the kidneys?
+------------------------------
+Rank 1 | Score: 0.8211 | Band: HIGH
+Chunk: Diabetic nephropathy may result in progressive kidney damage.
+
+Rank 2 | Score: 0.7005 | Band: MID
+Chunk: Frequent urination (polyuria) is a common early symptom of diabetes.
+
+Rank 3 | Score: 0.6744 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Score Gap (Top1 - Top2): 0.1206
+
+==============================
+Query 18: 18. What eye-related complications can occur in diabetes?
+------------------------------
+Rank 1 | Score: 0.8005 | Band: HIGH
+Chunk: Diabetic retinopathy can lead to vision impairment or blindness.
+
+Rank 2 | Score: 0.7611 | Band: HIGH
+Chunk: Blurred vision may occur when blood glucose levels fluctuate significantly.
+
+Rank 3 | Score: 0.6980 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Score Gap (Top1 - Top2): 0.0394
+
+==============================
+Query 19: 19. Why are diabetic patients at higher cardiovascular risk?
+------------------------------
+Rank 1 | Score: 0.8991 | Band: HIGH
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 2 | Score: 0.6380 | Band: MID
+Chunk: Chronic hyperglycemia may lead to diabetic neuropathy.
+
+Rank 3 | Score: 0.6324 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Score Gap (Top1 - Top2): 0.2611
+
+==============================
+Query 20: 20. What is diabetic ketoacidosis?
+------------------------------
+Rank 1 | Score: 0.7327 | Band: MID
+Chunk: Acute complications include diabetic ketoacidosis (DKA).
+
+Rank 2 | Score: 0.6742 | Band: MID
+Chunk: Diabetes mellitus is a metabolic disorder characterized by persistent hyperglycemia due to insulin deficiency or resistance.
+
+Rank 3 | Score: 0.6416 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Score Gap (Top1 - Top2): 0.0585
+
+==============================
+Query 21: 21. How does uncontrolled diabetes impact multiple organ systems?
+------------------------------
+Rank 1 | Score: 0.6906 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 2 | Score: 0.6453 | Band: MID
+Chunk: Frequent urination (polyuria) is a common early symptom of diabetes.
+
+Rank 3 | Score: 0.6342 | Band: MID
+Chunk: Diabetes mellitus is a metabolic disorder characterized by persistent hyperglycemia due to insulin deficiency or resistance.
+
+Score Gap (Top1 - Top2): 0.0453
+
+==============================
+Query 22: 22. What symptoms and diagnostic indicators together suggest diabetes?
+------------------------------
+Rank 1 | Score: 0.7438 | Band: MID
+Chunk: A random blood glucose level ≥200 mg/dL with symptoms indicates diabetes.
+
+Rank 2 | Score: 0.7172 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Rank 3 | Score: 0.7119 | Band: MID
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Score Gap (Top1 - Top2): 0.0266
+
+==============================
+Query 23: 23. What happens if diabetes is left untreated over time?
+------------------------------
+Rank 1 | Score: 0.6504 | Band: MID
+Chunk: Diabetic nephropathy may result in progressive kidney damage.
+
+Rank 2 | Score: 0.6489 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 3 | Score: 0.6405 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Score Gap (Top1 - Top2): 0.0014
+
+==============================
+Query 24: 24. How do treatment strategies aim to control blood glucose?
+------------------------------
+Rank 1 | Score: 0.6888 | Band: MID
+Chunk: Additional oral agents may be prescribed if glycemic targets are not achieved.
+
+Rank 2 | Score: 0.6781 | Band: MID
+Chunk: Blood glucose monitoring should be performed regularly.
+
+Rank 3 | Score: 0.6701 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Score Gap (Top1 - Top2): 0.0107
+
+==============================
+Query 25: 25. What are both acute and chronic complications of diabetes?
+------------------------------
+Rank 1 | Score: 0.7328 | Band: MID
+Chunk: Acute complications include diabetic ketoacidosis (DKA).
+
+Rank 2 | Score: 0.7242 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 3 | Score: 0.6991 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Score Gap (Top1 - Top2): 0.0086
+
+==============================
+Query 26: 26. What combination of symptoms and test results would strongly indicate diabetes?
+------------------------------
+Rank 1 | Score: 0.7644 | Band: HIGH
+Chunk: A random blood glucose level ≥200 mg/dL with symptoms indicates diabetes.
+
+Rank 2 | Score: 0.7198 | Band: MID
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Rank 3 | Score: 0.7129 | Band: MID
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Score Gap (Top1 - Top2): 0.0447
+
+==============================
+Query 27: 27. Under what conditions can diabetes be diagnosed without fasting tests?
+------------------------------
+Rank 1 | Score: 0.7983 | Band: HIGH
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Rank 2 | Score: 0.7297 | Band: MID
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 3 | Score: 0.6783 | Band: MID
+Chunk: HbA1c ≥6.5% confirms the diagnosis of diabetes.
+
+Score Gap (Top1 - Top2): 0.0686
+
+==============================
+Query 28: 28. Why might a patient require insulin even after starting oral medication?
+------------------------------
+Rank 1 | Score: 0.8198 | Band: HIGH
+Chunk: Insulin therapy is required when oral medications are insufficient or contraindicated.
+
+Rank 2 | Score: 0.6601 | Band: MID
+Chunk: Additional oral agents may be prescribed if glycemic targets are not achieved.
+
+Rank 3 | Score: 0.6293 | Band: MID
+Chunk: Patients should reduce intake of refined sugars and high-glycemic foods.
+
+Score Gap (Top1 - Top2): 0.1597
+
+==============================
+Query 29: 29. How do lifestyle changes and medication work together in diabetes management?
+------------------------------
+Rank 1 | Score: 0.6582 | Band: MID
+Chunk: Lifestyle modification is mandatory and includes dietary control and regular physical activity.
+
+Rank 2 | Score: 0.6490 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 3 | Score: 0.6235 | Band: MID
+Chunk: Insulin therapy is required when oral medications are insufficient or contraindicated.
+
+Score Gap (Top1 - Top2): 0.0092
+
+==============================
+Query 30: 30. What factors contribute to both acute and long-term complications in diabetes?
+------------------------------
+Rank 1 | Score: 0.7392 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 2 | Score: 0.7127 | Band: MID
+Chunk: Acute complications include diabetic ketoacidosis (DKA).
+
+Rank 3 | Score: 0.7038 | Band: MID
+Chunk: Diabetic nephropathy may result in progressive kidney damage.
+
+Score Gap (Top1 - Top2): 0.0265
+
+==============================
+Query 31: 31. How can poor glucose control lead to multiple types of complications?
+------------------------------
+Rank 1 | Score: 0.7250 | Band: MID
+Chunk: Blurred vision may occur when blood glucose levels fluctuate significantly.
+
+Rank 2 | Score: 0.7071 | Band: MID
+Chunk: Persistent fatigue is often reported due to impaired glucose utilization.
+
+Rank 3 | Score: 0.7021 | Band: MID
+Chunk: Acute complications include diabetic ketoacidosis (DKA).
+
+Score Gap (Top1 - Top2): 0.0179
+
+==============================
+Query 32: 32. What distinguishes prediabetes from diabetes in terms of diagnostic criteria?
+------------------------------
+Rank 1 | Score: 0.7974 | Band: HIGH
+Chunk: Prediabetes is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%.
+
+Rank 2 | Score: 0.7347 | Band: MID
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Rank 3 | Score: 0.7057 | Band: MID
+Chunk: Diabetes mellitus is a metabolic disorder characterized by persistent hyperglycemia due to insulin deficiency or resistance.
+
+Score Gap (Top1 - Top2): 0.0627
+
+==============================
+Query 33: 33. Why might symptoms appear before a formal diagnosis is confirmed?
+------------------------------
+Rank 1 | Score: 0.5746 | Band: LOW
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Rank 2 | Score: 0.5692 | Band: LOW
+Chunk: HbA1c ≥6.5% confirms the diagnosis of diabetes.
+
+Rank 3 | Score: 0.5492 | Band: LOW
+Chunk: Recurrent infections, including skin and urinary infections, may indicate diabetes.
+
+Score Gap (Top1 - Top2): 0.0055
+
+==============================
+Query 34: 34. How do diagnostic thresholds relate to disease progression?
+------------------------------
+Rank 1 | Score: 0.5928 | Band: LOW
+Chunk: Diabetes is diagnosed if fasting blood glucose is ≥126 mg/dL on two separate occasions.
+
+Rank 2 | Score: 0.5709 | Band: LOW
+Chunk: A random blood glucose level ≥200 mg/dL with symptoms indicates diabetes.
+
+Rank 3 | Score: 0.5607 | Band: LOW
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Score Gap (Top1 - Top2): 0.0218
+
+==============================
+Query 35: 35. What risks arise if diabetes is treated aggressively without proper monitoring?
+------------------------------
+Rank 1 | Score: 0.7163 | Band: MID
+Chunk: Cardiovascular disease risk is significantly increased in diabetic patients.
+
+Rank 2 | Score: 0.6993 | Band: MID
+Chunk: Blood glucose monitoring should be performed regularly.
+
+Rank 3 | Score: 0.6717 | Band: MID
+Chunk: Insulin therapy is required when oral medications are insufficient or contraindicated.
+
+Score Gap (Top1 - Top2): 0.0170
+
+==============================
+SUMMARY (TOP-1 HIGH ONLY)
+------------------------------
+Total Queries: 35
+HIGH (score ≥ 0.75): 16
+Average Score Gap: 0.0571

@@ -1,0 +1,1085 @@
+
+============================================================
+Query 1: 1. What are the common symptoms of diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5947 | Band: LOW
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 2 | Retrieval Score: 0.6135 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+Rank 3 | Retrieval Score: 0.6213 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 6.0740 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+New Rank 2 | Old Rank 2 | Rerank Score: 2.6436 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+New Rank 3 | Old Rank 3 | Rerank Score: -1.3535 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 1
+Reranked Top-1 Chunk ID: 1
+
+============================================================
+Query 2: 2. What early signs may indicate diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6152 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 2 | Retrieval Score: 0.6269 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+Rank 3 | Retrieval Score: 0.6298 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 3.6252 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+New Rank 2 | Old Rank 3 | Rerank Score: 1.3674 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 3 | Old Rank 2 | Rerank Score: 1.1141 | Rank Shift: -1
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 1
+Reranked Top-1 Chunk ID: 1
+
+============================================================
+Query 3: 3. How does diabetes affect energy levels?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6302 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 2 | Retrieval Score: 0.6400 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+Rank 3 | Retrieval Score: 0.6429 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 3 | Rerank Score: 1.0182 | Rank Shift: +2
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 2 | Old Rank 2 | Rerank Score: -2.2554 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+New Rank 3 | Old Rank 1 | Rerank Score: -2.4696 | Rank Shift: -2
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 1
+Reranked Top-1 Chunk ID: 2
+
+============================================================
+Query 4: 4. Why do patients with diabetes experience frequent urination?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6015 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 2 | Retrieval Score: 0.6407 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+Rank 3 | Retrieval Score: 0.6509 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 6.4866 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+New Rank 2 | Old Rank 2 | Rerank Score: 0.7360 | Rank Shift: +0
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 3 | Old Rank 3 | Rerank Score: -6.0612 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 1
+Reranked Top-1 Chunk ID: 1
+
+============================================================
+Query 5: 5. What visual symptoms are associated with diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6164 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 2 | Retrieval Score: 0.6197 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+Rank 3 | Retrieval Score: 0.6251 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: 1.1102 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 2 | Old Rank 1 | Rerank Score: -0.8259 | Rank Shift: -1
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+New Rank 3 | Old Rank 3 | Rerank Score: -3.4810 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 1
+Reranked Top-1 Chunk ID: 2
+
+============================================================
+Query 6: 6. How is diabetes diagnosed using fasting blood glucose?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5724 | Band: LOW
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.5979 | Band: LOW
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+Rank 3 | Retrieval Score: 0.6257 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 7.4713 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 2 | Old Rank 2 | Rerank Score: 3.5647 | Rank Shift: +0
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 3 | Old Rank 3 | Rerank Score: 0.4009 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 3
+
+============================================================
+Query 7: 7. What HbA1c level confirms diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5982 | Band: LOW
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6476 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 3 | Retrieval Score: 0.6741 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 4.7194 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 2 | Old Rank 2 | Rerank Score: 0.2252 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 3 | Old Rank 3 | Rerank Score: -9.3000 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 3
+
+============================================================
+Query 8: 8. When is a random blood glucose test sufficient for diagnosis?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5875 | Band: LOW
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6031 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 3 | Retrieval Score: 0.6186 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 2.7621 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 2 | Old Rank 2 | Rerank Score: 2.2901 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 3 | Old Rank 3 | Rerank Score: -4.5832 | Rank Shift: +0
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 3
+
+============================================================
+Query 9: 9. What is the role of the oral glucose tolerance test?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6281 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 2 | Retrieval Score: 0.6480 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 3 | Retrieval Score: 0.6568 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 4.3385 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 2 | Old Rank 2 | Rerank Score: -7.3358 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 3 | Old Rank 3 | Rerank Score: -7.6030 | Rank Shift: +0
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 4
+Reranked Top-1 Chunk ID: 4
+
+============================================================
+Query 10: 10. How is prediabetes identified?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6606 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6773 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+Rank 3 | Retrieval Score: 0.6785 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: -5.6896 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 2 | Old Rank 3 | Rerank Score: -7.4411 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 3 | Old Rank 2 | Rerank Score: -9.4367 | Rank Shift: -1
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 3
+
+============================================================
+Query 11: 11. What lifestyle changes are recommended for diabetes management?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6217 | Band: MID
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+Rank 2 | Retrieval Score: 0.6492 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 3 | Retrieval Score: 0.6548 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: -0.4775 | Rank Shift: +1
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 2 | Old Rank 1 | Rerank Score: -2.8568 | Rank Shift: -1
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+New Rank 3 | Old Rank 3 | Rerank Score: -6.4874 | Rank Shift: +0
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 5
+Reranked Top-1 Chunk ID: 4
+
+============================================================
+Query 12: 12. What is the first-line medication for diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6380 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 2 | Retrieval Score: 0.6604 | Band: MID
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+Rank 3 | Retrieval Score: 0.6700 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 4.3748 | Rank Shift: +0
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 2 | Old Rank 2 | Rerank Score: 3.6903 | Rank Shift: +0
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+New Rank 3 | Old Rank 3 | Rerank Score: -8.9753 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 6
+Reranked Top-1 Chunk ID: 6
+
+============================================================
+Query 13: 13. When is insulin therapy required?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6433 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 2 | Retrieval Score: 0.6702 | Band: MID
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+Rank 3 | Retrieval Score: 0.6773 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 2.7688 | Rank Shift: +0
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 2 | Old Rank 2 | Rerank Score: -7.0622 | Rank Shift: +0
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+New Rank 3 | Old Rank 3 | Rerank Score: -10.9505 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 6
+Reranked Top-1 Chunk ID: 6
+
+============================================================
+Query 14: 14. Why is weight management important in diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6476 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 2 | Retrieval Score: 0.6508 | Band: MID
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+Rank 3 | Retrieval Score: 0.6510 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: -1.9440 | Rank Shift: +1
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+New Rank 2 | Old Rank 1 | Rerank Score: -6.0706 | Rank Shift: -1
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 3 | Old Rank 3 | Rerank Score: -8.1584 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 4
+Reranked Top-1 Chunk ID: 5
+
+============================================================
+Query 15: 15. How often should HbA1c be monitored?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6742 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6933 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 3 | Retrieval Score: 0.7123 | Band: MID
+Chunk: immediate medical intervention. Episodes of hypoglycemia may also occur, particularly in patients receiving intensive treatment.
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: -1.9059 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 2 | Old Rank 2 | Rerank Score: -9.3052 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 3 | Old Rank 3 | Rerank Score: -9.9752 | Rank Shift: +0
+Chunk: immediate medical intervention. Episodes of hypoglycemia may also occur, particularly in patients receiving intensive treatment.
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 3
+
+============================================================
+Query 16: 16. What are the long-term complications of diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5909 | Band: LOW
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 2 | Retrieval Score: 0.6132 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 3 | Retrieval Score: 0.6458 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 7.0240 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 2 | Old Rank 2 | Rerank Score: 4.5640 | Rank Shift: +0
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 3 | Old Rank 3 | Rerank Score: -6.3960 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 7
+Reranked Top-1 Chunk ID: 7
+
+============================================================
+Query 17: 17. How does diabetes affect the kidneys?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6376 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 2 | Retrieval Score: 0.6561 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 3 | Retrieval Score: 0.6602 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 0.5537 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+New Rank 2 | Old Rank 2 | Rerank Score: -0.6601 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 3 | Old Rank 3 | Rerank Score: -3.1928 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 1
+Reranked Top-1 Chunk ID: 1
+
+============================================================
+Query 18: 18. What eye-related complications can occur in diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5918 | Band: LOW
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 2 | Retrieval Score: 0.6175 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 3 | Retrieval Score: 0.6369 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 5.1193 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 2 | Old Rank 2 | Rerank Score: 0.9104 | Rank Shift: +0
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 3 | Old Rank 3 | Rerank Score: -3.0878 | Rank Shift: +0
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 7
+Reranked Top-1 Chunk ID: 7
+
+============================================================
+Query 19: 19. Why are diabetic patients at higher cardiovascular risk?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6586 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 2 | Retrieval Score: 0.6724 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 3 | Retrieval Score: 0.6727 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 2.9424 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 2 | Old Rank 3 | Rerank Score: -6.7443 | Rank Shift: +1
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+New Rank 3 | Old Rank 2 | Rerank Score: -9.4412 | Rank Shift: -1
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 7
+Reranked Top-1 Chunk ID: 7
+
+============================================================
+Query 20: 20. What is diabetic ketoacidosis?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6607 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 2 | Retrieval Score: 0.6667 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+Rank 3 | Retrieval Score: 0.6882 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: -1.9820 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 2 | Old Rank 2 | Rerank Score: -5.6303 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+New Rank 3 | Old Rank 3 | Rerank Score: -10.4261 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 7
+Reranked Top-1 Chunk ID: 7
+
+============================================================
+Query 21: 21. How does uncontrolled diabetes impact multiple organ systems?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6270 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+Rank 2 | Retrieval Score: 0.6483 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+Rank 3 | Retrieval Score: 0.6576 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: 1.1585 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+New Rank 2 | Old Rank 2 | Rerank Score: -1.9020 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+New Rank 3 | Old Rank 3 | Rerank Score: -8.6886 | Rank Shift: +0
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 1
+Reranked Top-1 Chunk ID: 1
+
+============================================================
+Query 22: 22. What symptoms and diagnostic indicators together suggest diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6235 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6339 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+Rank 3 | Retrieval Score: 0.6343 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: 0.3551 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 2 | Old Rank 1 | Rerank Score: -1.2832 | Rank Shift: -1
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 3 | Old Rank 3 | Rerank Score: -3.9486 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 2
+
+============================================================
+Query 23: 23. What happens if diabetes is left untreated over time?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6549 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 2 | Retrieval Score: 0.6570 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 3 | Retrieval Score: 0.6693 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 3 | Rerank Score: -1.6953 | Rank Shift: +2
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+New Rank 2 | Old Rank 1 | Rerank Score: -2.0049 | Rank Shift: -1
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 3 | Old Rank 2 | Rerank Score: -5.3500 | Rank Shift: -1
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 6
+Reranked Top-1 Chunk ID: 0
+
+============================================================
+Query 24: 24. How do treatment strategies aim to control blood glucose?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6317 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 2 | Retrieval Score: 0.6397 | Band: MID
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+Rank 3 | Retrieval Score: 0.6513 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: -2.8924 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 2 | Old Rank 3 | Rerank Score: -5.2765 | Rank Shift: +1
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 3 | Old Rank 2 | Rerank Score: -8.4676 | Rank Shift: -1
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 4
+Reranked Top-1 Chunk ID: 4
+
+============================================================
+Query 25: 25. What are both acute and chronic complications of diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5917 | Band: LOW
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 2 | Retrieval Score: 0.6234 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 3 | Retrieval Score: 0.6333 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: 5.3897 | Rank Shift: +1
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 2 | Old Rank 1 | Rerank Score: 4.6558 | Rank Shift: -1
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 3 | Old Rank 3 | Rerank Score: -2.1702 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 7
+Reranked Top-1 Chunk ID: 6
+
+============================================================
+Query 26: 26. What combination of symptoms and test results would strongly indicate diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6172 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6312 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+Rank 3 | Retrieval Score: 0.6355 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: -2.7885 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 2 | Old Rank 1 | Rerank Score: -2.8900 | Rank Shift: -1
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 3 | Old Rank 3 | Rerank Score: -5.7259 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 2
+
+============================================================
+Query 27: 27. Under what conditions can diabetes be diagnosed without fasting tests?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6040 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6175 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+Rank 3 | Retrieval Score: 0.6467 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: 1.1673 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 2 | Old Rank 1 | Rerank Score: 1.0347 | Rank Shift: -1
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 3 | Old Rank 3 | Rerank Score: -3.8681 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 2
+
+============================================================
+Query 28: 28. Why might a patient require insulin even after starting oral medication?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6411 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 2 | Retrieval Score: 0.6532 | Band: MID
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+Rank 3 | Retrieval Score: 0.6761 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: -0.3844 | Rank Shift: +0
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 2 | Old Rank 2 | Rerank Score: -5.0448 | Rank Shift: +0
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+New Rank 3 | Old Rank 3 | Rerank Score: -8.5491 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 6
+Reranked Top-1 Chunk ID: 6
+
+============================================================
+Query 29: 29. How do lifestyle changes and medication work together in diabetes management?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6319 | Band: MID
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+Rank 2 | Retrieval Score: 0.6489 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 3 | Retrieval Score: 0.6631 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 3 | Rerank Score: -0.7024 | Rank Shift: +2
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 2 | Old Rank 1 | Rerank Score: -3.4987 | Rank Shift: -1
+Chunk: a combination of lifestyle and pharmacological interventions. Patients are advised to adopt a balanced diet, limit intake of high-glycemic foods, and engage in regular physical activity. Weight reduction is particularly important for individuals with insulin resistance. Metformin is commonly prescribed as the first-line medication, while additional oral agents may be
+
+New Rank 3 | Old Rank 2 | Rerank Score: -5.2769 | Rank Shift: -1
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 5
+Reranked Top-1 Chunk ID: 4
+
+============================================================
+Query 30: 30. What factors contribute to both acute and long-term complications in diabetes?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.5899 | Band: LOW
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 2 | Retrieval Score: 0.6119 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 3 | Retrieval Score: 0.6332 | Band: MID
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: 4.8305 | Rank Shift: +1
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 2 | Old Rank 1 | Rerank Score: 4.6283 | Rank Shift: -1
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 3 | Old Rank 3 | Rerank Score: -7.1666 | Rank Shift: +0
+Chunk: effects on various organ systems. The early symptoms of diabetes often develop gradually and may go unnoticed. Individuals commonly experience increased thirst and frequent urination as the body attempts to eliminate excess glucose through urine. Fatigue is another frequent complaint, resulting from the body’s inability to efficiently utilize glucose for
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 7
+Reranked Top-1 Chunk ID: 6
+
+============================================================
+Query 31: 31. How can poor glucose control lead to multiple types of complications?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6073 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 2 | Retrieval Score: 0.6125 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 3 | Retrieval Score: 0.6241 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: -0.6331 | Rank Shift: +1
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 2 | Old Rank 3 | Rerank Score: -5.3093 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 3 | Old Rank 1 | Rerank Score: -5.3168 | Rank Shift: -2
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 7
+Reranked Top-1 Chunk ID: 6
+
+============================================================
+Query 32: 32. What distinguishes prediabetes from diabetes in terms of diagnostic criteria?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6266 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6486 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+Rank 3 | Retrieval Score: 0.6566 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: -0.2726 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 2 | Old Rank 3 | Rerank Score: -5.8348 | Rank Shift: +1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 3 | Old Rank 2 | Rerank Score: -7.1382 | Rank Shift: -1
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 3
+
+============================================================
+Query 33: 33. Why might symptoms appear before a formal diagnosis is confirmed?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6851 | Band: MID
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+Rank 2 | Retrieval Score: 0.6876 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 3 | Retrieval Score: 0.7064 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 3 | Rerank Score: -5.3954 | Rank Shift: +2
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 2 | Old Rank 1 | Rerank Score: -6.7667 | Rank Shift: -1
+Chunk: resulting from the body’s inability to efficiently utilize glucose for energy. Some patients may also report unexplained weight loss, blurred vision, or delayed wound healing. Recurrent infections, particularly of the skin or urinary tract, can also be indicative of underlying diabetes. Diagnosis is established through laboratory testing. A fasting blood
+
+New Rank 3 | Old Rank 2 | Rerank Score: -7.1978 | Rank Shift: -1
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 2
+Reranked Top-1 Chunk ID: 4
+
+============================================================
+Query 34: 34. How do diagnostic thresholds relate to disease progression?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6722 | Band: MID
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+Rank 2 | Retrieval Score: 0.6872 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+Rank 3 | Retrieval Score: 0.6968 | Band: MID
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 1 | Rerank Score: -8.4376 | Rank Shift: +0
+Chunk: diabetes. Diagnosis is established through laboratory testing. A fasting blood glucose level of 126 mg/dL or higher on two separate occasions is considered diagnostic. Alternatively, an HbA1c value of 6.5% or above reflects sustained elevated glucose levels over time. In symptomatic individuals, a random blood glucose level exceeding 200 mg/dL
+
+New Rank 2 | Old Rank 2 | Rerank Score: -10.9090 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+New Rank 3 | Old Rank 3 | Rerank Score: -11.1149 | Rank Shift: +0
+Chunk: Diabetes mellitus is a chronic metabolic condition in which the body is unable to effectively regulate blood glucose levels. This may occur due to insufficient insulin production or resistance to insulin action. Over time, elevated glucose levels can have widespread effects on various organ systems. The early symptoms of diabetes
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: NO
+Baseline Top-1 Chunk ID: 3
+Reranked Top-1 Chunk ID: 3
+
+============================================================
+Query 35: 35. What risks arise if diabetes is treated aggressively without proper monitoring?
+------------------------------------------------------------
+BASELINE TOP 3
+--------------
+Rank 1 | Retrieval Score: 0.6247 | Band: MID
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+Rank 2 | Retrieval Score: 0.6424 | Band: MID
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+Rank 3 | Retrieval Score: 0.6617 | Band: MID
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+RERANKED TOP 3
+--------------
+New Rank 1 | Old Rank 2 | Rerank Score: -1.6617 | Rank Shift: +1
+Chunk: complications. Long-term complications include damage to nerves, kidneys, and eyes, collectively referred to as microvascular complications. Additionally, individuals with diabetes are at a significantly higher risk of cardiovascular disease. Acute complications, such as diabetic ketoacidosis, can develop rapidly and require immediate medical intervention. Episodes of hypoglycemia may also occur, particularly
+
+New Rank 2 | Old Rank 1 | Rerank Score: -2.0011 | Rank Shift: -1
+Chunk: as the first-line medication, while additional oral agents may be added if glycemic control is not achieved. In more advanced cases, insulin therapy may be required. If diabetes is not adequately controlled, it can lead to both acute and chronic complications. Long-term complications include damage to nerves, kidneys, and eyes,
+
+New Rank 3 | Old Rank 3 | Rerank Score: -8.0082 | Rank Shift: +0
+Chunk: symptomatic individuals, a random blood glucose level exceeding 200 mg/dL may also confirm the diagnosis. Additional tests such as the oral glucose tolerance test may be used in certain cases to assess glucose metabolism more thoroughly. Management of diabetes involves a combination of lifestyle and pharmacological interventions. Patients are advised
+
+SUMMARY FOR THIS QUERY
+----------------------
+Top-1 Changed: YES
+Baseline Top-1 Chunk ID: 6
+Reranked Top-1 Chunk ID: 7

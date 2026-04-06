@@ -1,0 +1,497 @@
+
+==============================
+Query 1: 1. What are the common symptoms of diabetes?
+------------------------------
+Rank 1 | Score: 0.8624 | Band: HIGH
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.7782 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.7777 | Band: HIGH
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0842
+
+==============================
+Query 2: 2. What early signs may indicate diabetes?
+------------------------------
+Rank 1 | Score: 0.8158 | Band: HIGH
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.7456 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.7409 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0702
+
+==============================
+Query 3: 3. How does diabetes affect energy levels?
+------------------------------
+Rank 1 | Score: 0.6985 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.6828 | Band: MID
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Rank 3 | Score: 0.6772 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0158
+
+==============================
+Query 4: 4. Why do patients with diabetes experience frequent urination?
+------------------------------
+Rank 1 | Score: 0.7379 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.6957 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 3 | Score: 0.6948 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0421
+
+==============================
+Query 5: 5. What visual symptoms are associated with diabetes?
+------------------------------
+Rank 1 | Score: 0.8142 | Band: HIGH
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.7832 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.7790 | Band: HIGH
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0309
+
+==============================
+Query 6: 6. How is diabetes diagnosed using fasting blood glucose?
+------------------------------
+Rank 1 | Score: 0.8557 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 2 | Score: 0.7697 | Band: HIGH
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 3 | Score: 0.7546 | Band: HIGH
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Score Gap (Top1 - Top2): 0.0860
+
+==============================
+Query 7: 7. What HbA1c level confirms diabetes?
+------------------------------
+Rank 1 | Score: 0.7776 | Band: HIGH
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 2 | Score: 0.7559 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.6879 | Band: MID
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Score Gap (Top1 - Top2): 0.0217
+
+==============================
+Query 8: 8. When is a random blood glucose test sufficient for diagnosis?
+------------------------------
+Rank 1 | Score: 0.7729 | Band: HIGH
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 2 | Score: 0.7637 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.7324 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Score Gap (Top1 - Top2): 0.0091
+
+==============================
+Query 9: 9. What is the role of the oral glucose tolerance test?
+------------------------------
+Rank 1 | Score: 0.7031 | Band: MID
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 2 | Score: 0.6739 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.6610 | Band: MID
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Score Gap (Top1 - Top2): 0.0292
+
+==============================
+Query 10: 10. How is prediabetes identified?
+------------------------------
+Rank 1 | Score: 0.7792 | Band: HIGH
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 2 | Score: 0.7071 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.6684 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Score Gap (Top1 - Top2): 0.0722
+
+==============================
+Query 11: 11. What lifestyle changes are recommended for diabetes management?
+------------------------------
+Rank 1 | Score: 0.7900 | Band: HIGH
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Rank 2 | Score: 0.7576 | Band: HIGH
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 3 | Score: 0.6770 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Score Gap (Top1 - Top2): 0.0324
+
+==============================
+Query 12: 12. What is the first-line medication for diabetes?
+------------------------------
+Rank 1 | Score: 0.7501 | Band: HIGH
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 2 | Score: 0.6692 | Band: MID
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Rank 3 | Score: 0.6447 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Score Gap (Top1 - Top2): 0.0808
+
+==============================
+Query 13: 13. When is insulin therapy required?
+------------------------------
+Rank 1 | Score: 0.6821 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 2 | Score: 0.6630 | Band: MID
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 3 | Score: 0.6341 | Band: MID
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Score Gap (Top1 - Top2): 0.0192
+
+==============================
+Query 14: 14. Why is weight management important in diabetes?
+------------------------------
+Rank 1 | Score: 0.7834 | Band: HIGH
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Rank 2 | Score: 0.7259 | Band: MID
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 3 | Score: 0.6900 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Score Gap (Top1 - Top2): 0.0575
+
+==============================
+Query 15: 15. How often should HbA1c be monitored?
+------------------------------
+Rank 1 | Score: 0.7745 | Band: HIGH
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 2 | Score: 0.6440 | Band: MID
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 3 | Score: 0.6217 | Band: MID
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Score Gap (Top1 - Top2): 0.1305
+
+==============================
+Query 16: 16. What are the long-term complications of diabetes?
+------------------------------
+Rank 1 | Score: 0.7441 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 2 | Score: 0.7232 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 3 | Score: 0.7123 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0209
+
+==============================
+Query 17: 17. How does diabetes affect the kidneys?
+------------------------------
+Rank 1 | Score: 0.6905 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.6561 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 3 | Score: 0.6472 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Score Gap (Top1 - Top2): 0.0344
+
+==============================
+Query 18: 18. What eye-related complications can occur in diabetes?
+------------------------------
+Rank 1 | Score: 0.7741 | Band: HIGH
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 2 | Score: 0.7413 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 3 | Score: 0.7281 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Score Gap (Top1 - Top2): 0.0328
+
+==============================
+Query 19: 19. Why are diabetic patients at higher cardiovascular risk?
+------------------------------
+Rank 1 | Score: 0.6414 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 2 | Score: 0.6397 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 3 | Score: 0.6393 | Band: MID
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Score Gap (Top1 - Top2): 0.0016
+
+==============================
+Query 20: 20. What is diabetic ketoacidosis?
+------------------------------
+Rank 1 | Score: 0.6829 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 2 | Score: 0.6826 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 3 | Score: 0.6578 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Score Gap (Top1 - Top2): 0.0003
+
+==============================
+Query 21: 21. How does uncontrolled diabetes impact multiple organ systems?
+------------------------------
+Rank 1 | Score: 0.6570 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.6568 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 3 | Score: 0.6508 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Score Gap (Top1 - Top2): 0.0002
+
+==============================
+Query 22: 22. What symptoms and diagnostic indicators together suggest diabetes?
+------------------------------
+Rank 1 | Score: 0.7898 | Band: HIGH
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.7826 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.7257 | Band: MID
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Score Gap (Top1 - Top2): 0.0072
+
+==============================
+Query 23: 23. What happens if diabetes is left untreated over time?
+------------------------------
+Rank 1 | Score: 0.7056 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 2 | Score: 0.6670 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.6526 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Score Gap (Top1 - Top2): 0.0385
+
+==============================
+Query 24: 24. How do treatment strategies aim to control blood glucose?
+------------------------------
+Rank 1 | Score: 0.7712 | Band: HIGH
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 2 | Score: 0.7575 | Band: HIGH
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Rank 3 | Score: 0.7057 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Score Gap (Top1 - Top2): 0.0137
+
+==============================
+Query 25: 25. What are both acute and chronic complications of diabetes?
+------------------------------
+Rank 1 | Score: 0.7511 | Band: HIGH
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.7332 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 3 | Score: 0.7188 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Score Gap (Top1 - Top2): 0.0179
+
+==============================
+Query 26: 26. What combination of symptoms and test results would strongly indicate diabetes?
+------------------------------
+Rank 1 | Score: 0.7815 | Band: HIGH
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 2 | Score: 0.7695 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.7284 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0120
+
+==============================
+Query 27: 27. Under what conditions can diabetes be diagnosed without fasting tests?
+------------------------------
+Rank 1 | Score: 0.7959 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 2 | Score: 0.7317 | Band: MID
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 3 | Score: 0.7123 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Score Gap (Top1 - Top2): 0.0642
+
+==============================
+Query 28: 28. Why might a patient require insulin even after starting oral medication?
+------------------------------
+Rank 1 | Score: 0.6693 | Band: MID
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 2 | Score: 0.6478 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 3 | Score: 0.6231 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Score Gap (Top1 - Top2): 0.0215
+
+==============================
+Query 29: 29. How do lifestyle changes and medication work together in diabetes management?
+------------------------------
+Rank 1 | Score: 0.7409 | Band: MID
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Rank 2 | Score: 0.7374 | Band: MID
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 3 | Score: 0.6547 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Score Gap (Top1 - Top2): 0.0036
+
+==============================
+Query 30: 30. What factors contribute to both acute and long-term complications in diabetes?
+------------------------------
+Rank 1 | Score: 0.7406 | Band: MID
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 2 | Score: 0.7346 | Band: MID
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 3 | Score: 0.7136 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Score Gap (Top1 - Top2): 0.0060
+
+==============================
+Query 31: 31. How can poor glucose control lead to multiple types of complications?
+------------------------------
+Rank 1 | Score: 0.7744 | Band: HIGH
+Chunk: as nerve damage, kidney disease, eye problems, and cardiovascular disease. Acute complications like diabetic ketoacidosis can also occur. Can diabetes cause low blood sugar? Yes, hypoglycemia can occur, especially in patients taking insulin or certain medications. Symptoms include dizziness, sweating, and confusion.
+
+Rank 2 | Score: 0.7699 | Band: HIGH
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 3 | Score: 0.7090 | Band: MID
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Score Gap (Top1 - Top2): 0.0046
+
+==============================
+Query 32: 32. What distinguishes prediabetes from diabetes in terms of diagnostic criteria?
+------------------------------
+Rank 1 | Score: 0.8276 | Band: HIGH
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 2 | Score: 0.7642 | Band: HIGH
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 3 | Score: 0.7287 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Score Gap (Top1 - Top2): 0.0635
+
+==============================
+Query 33: 33. Why might symptoms appear before a formal diagnosis is confirmed?
+------------------------------
+Rank 1 | Score: 0.6478 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 2 | Score: 0.6067 | Band: MID
+Chunk: What is diabetes? Diabetes is a chronic condition in which blood glucose levels remain elevated due to problems with insulin production or function. What are the early symptoms of diabetes? Early symptoms include frequent urination, excessive thirst, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Some individuals may
+
+Rank 3 | Score: 0.6028 | Band: MID
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Score Gap (Top1 - Top2): 0.0411
+
+==============================
+Query 34: 34. How do diagnostic thresholds relate to disease progression?
+------------------------------
+Rank 1 | Score: 0.6518 | Band: MID
+Chunk: loss, blurred vision, and slow wound healing. Some individuals may also experience recurrent infections. How is diabetes diagnosed? Diabetes is diagnosed through blood tests. A fasting blood glucose level of 126 mg/dL or higher on two occasions confirms diabetes. An HbA1c value of 6.5% or above is also diagnostic. A
+
+Rank 2 | Score: 0.6279 | Band: MID
+Chunk: HbA1c value of 6.5% or above is also diagnostic. A random blood glucose level above 200 mg/dL with symptoms may indicate diabetes. An oral glucose tolerance test may also be used. What is prediabetes? Prediabetes is a condition where blood glucose levels are higher than normal but not high enough
+
+Rank 3 | Score: 0.5860 | Band: LOW
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Score Gap (Top1 - Top2): 0.0238
+
+==============================
+Query 35: 35. What risks arise if diabetes is treated aggressively without proper monitoring?
+------------------------------
+Rank 1 | Score: 0.7739 | Band: HIGH
+Chunk: therapy may be required. How often should monitoring be done? Blood glucose should be monitored regularly. HbA1c levels are typically checked every 3 to 6 months to assess long-term control. What complications can occur? Diabetes can lead to complications such as nerve damage, kidney disease, eye problems, and cardiovascular disease.
+
+Rank 2 | Score: 0.7148 | Band: MID
+Chunk: increasing physical activity, and maintaining a healthy weight. These steps help control blood glucose levels. What medications are used for diabetes? Metformin is commonly used as the first-line treatment. If blood glucose levels remain uncontrolled, additional oral medications or insulin therapy may be required. How often should monitoring be done?
+
+Rank 3 | Score: 0.6908 | Band: MID
+Chunk: glucose levels are higher than normal but not high enough to be classified as diabetes. It is indicated by fasting glucose between 100–125 mg/dL or HbA1c between 5.7–6.4%. How is diabetes managed? Management includes lifestyle changes such as improving diet, increasing physical activity, and maintaining a healthy weight. These steps
+
+Score Gap (Top1 - Top2): 0.0591
+
+==============================
+SUMMARY (TOP-1 HIGH ONLY)
+------------------------------
+Total Queries: 35
+HIGH (score ≥ 0.75): 20
+Average Score Gap: 0.0357
