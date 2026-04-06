@@ -39,7 +39,7 @@ The objective of ragCORE is to:
 | TN | 13 |
 | FN | 5 |
 
-**Effective Success Rate:** **30%**
+**Effective Success Rate:** **31.5%**
 
 **Observation:**  
 Low embedding variance and high inter-chunk similarity indicated a tightly clustered and ambiguous vector space.
